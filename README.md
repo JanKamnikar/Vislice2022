@@ -13,4 +13,7 @@ lolz
 - gzzzz
 - kurc
 - lamaka
+# navodila za igro
+
+ugibaj crke usakihč ko zgrešiš si bližje smrti, če uganeš si - zmagal
 
