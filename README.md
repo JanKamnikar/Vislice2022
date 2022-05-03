@@ -8,8 +8,9 @@ to so vsi avtorki projekta:
 lolz
 
 
+88
 - peder
-- gjjjj
+- gzzzz
 - kurc
 - lamaka
 
