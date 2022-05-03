@@ -1,4 +1,4 @@
 # Vislice2022
 igra
-banane
+naredi in izpise ti vislice
 saj se samo hecam
