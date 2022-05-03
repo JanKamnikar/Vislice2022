@@ -5,11 +5,11 @@ saj se samo zajebavam ti peder hehe
 
 # Avtorki
 to so vsi avtorki projekta:
-
+lolz
 
 
 - peder
-- gaj
+- gjjjj
 - kurc
-- lamo
+- lamaka
 
