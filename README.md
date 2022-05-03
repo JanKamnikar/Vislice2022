@@ -3,10 +3,13 @@ igra
 naredi in izpise ti vislice
 saj se samo zajebavam ti peder hehe
 
-# Avtorji
-to so vsi avtorji projekta:
+# Avtorki
+to so vsi avtorki projekta:
+
+
 
 - peder
 - gaj
-- kurac
+- kurc
+- lamo
 
